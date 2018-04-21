@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>preferRainy()</key>
+		<dict>
+			<key>PageReference</key>
+			<string>AboutMe/LoveRainy</string>
+			<key>Definition</key>
+			<string>This func can bring you a beautiful rainy scene.🌧⛈</string>
+		</dict>
+		<key>preferSunny()</key>
+		<dict>
+			<key>PageReference</key>
+			<string>AboutMe/LoveRainy</string>
+			<key>Definition</key>
+			<string>This func can bring you a beautiful sunny scene.🌝🌞</string>
+		</dict>
+		<key>preferSnow()</key>
+		<dict>
+			<key>PageReference</key>
+			<string>AboutMe/LoveRainy</string>
+			<key>Definition</key>
+			<string>This func can bring you a beautiful snow scene.❄️☃️</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
